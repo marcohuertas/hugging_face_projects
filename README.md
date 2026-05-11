@@ -6,4 +6,5 @@ This repository is for managing jupyter notebooks used during training/courses f
 ## Projects
 The main focus of independent projects, either using the HF api (Transformers, Datasets, etc), is the application of these tools to help with tasks commonly encountered in QSP.
  - Searching literature for models and relevant parameters.
+   - Token classification: identify value-unit pairs to extract parameters of relevant quantities
  - Testing systems biology models and perform automated cycles of calibration, validation.
